@@ -2,7 +2,7 @@
 
 Explicar el ORM del framework .net que es , cuales sosn sus caracteristicas principales y un ejemplo funcionando
 
-[Intro](https://www.youtube.com/watch?v=kBZjaabLUtk)
+[Intro](https://www.youtube.com/watch?v=kBZjaabLUtk),
 [Ejemplo](https://www.youtube.com/watch?v=cIZB1wNMPlY&t=230s)
 
 
